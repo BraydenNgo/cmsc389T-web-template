@@ -34,7 +34,7 @@ volumes:
     driver_opts:
       type: none
       #fill out your absolute path to your folder here
-      device: /home/bn031/cmsc389twebsite-1/cmsc389T-web-template-1
+      device: /home/bn031/cmsc389twebsite_ngo/cmsc389T-web-template
       o: bind
 
 networks:
